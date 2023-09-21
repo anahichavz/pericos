@@ -1,0 +1,38 @@
+/*Así son los comentarios*/
+body{
+    background-color: #c4e28d; color:#130101;font-family: 'Raleway', sans-serif;
+
+}
+
+h1,p {color:#752f40}
+h2{color:#bd6924}
+h3{color:#0f4b3c}
+ol{color:#3d2c11}
+ul{color:#4e293b}
+
+.link{ 
+    text-align: center;
+}
+
+h1{
+    font-size: 45px;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+h3{
+    font-size: 20px;
+    text-align: center;
+}
+
+.img1 {width: 400px; height: 250px; border-style:solid; border-color: #0e6e56; border-width: 10px; padding: 10px; margin-left: 450px; margin-bottom: 50px;}
+
+
+.img2 {width: 400px; height: 250px; border-style:double; border-color: #0e6e56; border-width: 10px;padding: 10px; margin-left: 450px; margin-bottom: 5px}
+
+small{color:#4a381b}
+
