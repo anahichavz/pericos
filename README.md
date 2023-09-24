@@ -16,7 +16,7 @@ La creación de hipervínculos (enlaces) pueden redirigir a los usuarios a otras
 La adición de listas se utiliza para organizar la información y dar orden a la página, lo que facilita la navegación del usuario por esta.
 
 ## 2. Qué construí
-Se elaboró una página en la que, para mejorar la organización de la información, se emplearon listas, formularios, hipervinculos e imagenes. 
+Se elaboró una página en la que, para mejorar la organización de la información, se emplearon listas, formularios, hipervínculos e imagenes. 
 
 Las tecnolgías que utilicé son:
 <br> 
@@ -25,7 +25,7 @@ Las tecnolgías que utilicé son:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ## Objetivo del proyecto
-Comprender la función de los algunos organizadores al diseñar una página web, así como comprender la forma en que se deben añadir imagenes e hipervinculos. 
+Comprender la función de los algunos organizadores al diseñar una página web, así como comprender la forma en que se deben añadir imagenes e hipervínculos. 
 
 ## Link a Demo
 Aquí puedes ver mi proyecto terminado: [Página de periquitos](https://pericos.vercel.app/)
